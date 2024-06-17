@@ -1,4 +1,5 @@
-https://stackabuse.com/bytes/how-to-get-a-users-ip-address-in-express-js/
+## Multer:
+https://www.npmjs.com/package/multer
 
-https://stackoverflow.com/questions/69945316/how-do-i-know-the-language-and-the-request-software-browser-in-express
+https://dev.to/codexam/how-to-use-multer-to-upload-files-in-nodejs-and-express-2a1a
 
